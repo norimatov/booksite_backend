@@ -1,0 +1,44 @@
+# Maxfiy ma'lumotlar
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Dasturlash tillari
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.class
+*.o
+*.exe
+
+# Loglar
+*.log
+logs/
+
+# OS fayllar
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Build
+dist/
+build/
+*.min.js
+*.min.css
+
+# Database
+*.db
+*.sqlite
+
+# Temp
+*.tmp
+*.temp
+*.swp
+*.swo
